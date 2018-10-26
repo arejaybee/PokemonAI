@@ -1,0 +1,53 @@
+Zygarde @ Dragonium Z 
+Ability: Aura Break 
+EVs: 4 HP / 252 Atk / 252 Spe 
+Adamant Nature 
+- Thousand Arrows 
+- Outrage 
+- Extreme Speed 
+- Dragon Dance
+
+Garchomp (M) @ Life Orb 
+Ability: Rough Skin 
+EVs: 4 HP / 252 Atk / 252 Spe 
+Jolly Nature 
+- Outrage 
+- Earthquake 
+- Fire Fang 
+- Swords Dance
+
+Greninja (M) @ Life Orb 
+Ability: Protean 
+EVs: 4 Atk / 252 SpA / 252 Spe 
+Naive Nature 
+- Hydro Pump 
+- Extrasensory 
+- Gunk Shot 
+- Ice Beam
+
+Tapu Koko @ Choice Specs 
+Ability: Electric Surge 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+- Thunderbolt 
+- Dazzling Gleam 
+- Volt Switch 
+- Hidden Power [Ice]
+
+Scizor (M) @ Scizorite 
+Ability: Light Metal 
+EVs: 4 HP / 252 Atk / 252 Spe 
+Adamant Nature 
+- Bullet Punch 
+- Superpower 
+- U-turn 
+- Swords Dance
+
+Kyurem (Kyurem-Black) @ Choice Scarf 
+Ability: Teravolt 
+EVs: 4 Atk / 252 SpA / 252 Spe 
+Naive Nature 
+- Outrage 
+- Fusion Bolt 
+- Ice Beam 
+- Earth Power

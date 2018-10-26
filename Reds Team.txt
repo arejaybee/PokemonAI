@@ -1,0 +1,57 @@
+Charizard @ Charizardite X  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Earthquake  
+- Dragon Claw  
+- Flare Blitz  
+- Dragon Dance  
+
+Blastoise @ Assault Vest  
+Ability: Rain Dish  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Rapid Spin  
+- Ice Beam  
+- Scald  
+- Fake Out  
+
+Venusaur @ Black Sludge  
+Ability: Overgrow  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Hidden Power [Fire]  
+- Sludge Bomb  
+- Giga Drain  
+- Leech Seed  
+
+Espeon (F) @ Leftovers  
+Ability: Magic Bounce  
+EVs: 128 HP / 128 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Reflect  
+- Light Screen  
+- Psyshock  
+- Heal Bell  
+
+Snorlax @ Sitrus Berry  
+Ability: Thick Fat  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Belly Drum  
+- Earthquake  
+- Return  
+- Crunch  
+
+Pikachu (M) @ Light Ball  
+Ability: Lightning Rod  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hidden Power [Ice]  
+- Encore  
+- Grass Knot  
+
